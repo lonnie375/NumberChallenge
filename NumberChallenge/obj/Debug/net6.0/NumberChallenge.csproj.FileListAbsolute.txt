@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\bin\Debug\net6.0\NumberChallenge.exe
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\bin\Debug\net6.0\NumberChallenge.deps.json
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\bin\Debug\net6.0\NumberChallenge.runtimeconfig.json
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\bin\Debug\net6.0\NumberChallenge.dll
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\bin\Debug\net6.0\NumberChallenge.pdb
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\NumberChallenge.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\NumberChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\NumberChallenge.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\NumberChallenge.AssemblyInfo.cs
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\NumberChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\NumberChallenge.dll
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\refint\NumberChallenge.dll
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\NumberChallenge.pdb
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\NumberChallenge.genruntimeconfig.cache
+C:\Users\ljohnson3\OneDrive - Knex\Desktop\Devbuild\NumberChallenge\NumberChallenge\obj\Debug\net6.0\ref\NumberChallenge.dll
